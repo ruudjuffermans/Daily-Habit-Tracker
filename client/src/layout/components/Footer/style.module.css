@@ -1,0 +1,13 @@
+.footer__shadowcomp {
+  position: fixed;
+  bottom: 0;
+  height: 100px;
+  background-color: var(--color-background);
+  z-index: -1;
+  width: 100%;
+
+}
+
+.footer {
+  background-color: var(--color-background);
+}
